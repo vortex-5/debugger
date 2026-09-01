@@ -25,6 +25,8 @@ Some screenshots of the game:
 
 Credits
 
+| Role | Credits |
+| --- | --- |
 | Programmers | Jason Bourne, Chris Brown, Mike Darmitz, Will Hua, FanFan Huang |
 | Level Designers | Jason Bourne, Chris Brown, Mike Darmitz, Will Hua, FanFan Huang |
 | Artists | Mike Darmitz, Will Hua, FanFan Huang |
