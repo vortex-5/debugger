@@ -1,4 +1,4 @@
-# Archived version of Debugger
+# Debugger
 
 Debugger was originally featured as the People's Choice Silver game at the Toronto Game Jam 2008 (Theme Cheese)
 
@@ -23,13 +23,25 @@ Some screenshots of the game:
 ![Game Over](screenshots/06-debugger-game-lost.jpg)
 
 
-Credits
+## Credits
 
-| Role | Credits |
-| --- | --- |
-| Programmers | Jason Bourne, Chris Brown, Mike Darmitz, Will Hua, FanFan Huang |
-| Level Designers | Jason Bourne, Chris Brown, Mike Darmitz, Will Hua, FanFan Huang |
-| Artists | Mike Darmitz, Will Hua, FanFan Huang |
-| Audio Engineer | Mike Darmitz |
-| AI Designers | Will Hua, FanFan Huang |
+Programmers 	
+
+    Jason Bourne, Chris Brown, Mike Darmitz, Will Hua, FanFan Huang
+
+Level Designers 	
+
+    Jason Bourne, Chris Brown, Mike Darmitz, Will Hua, FanFan Huang
+
+Artists 	
+
+    Mike Darmitz, Will Hua, FanFan Huang
+
+Audio Engineer 	
+
+    Mike Darmitz
+
+AI Designers 	
+
+    Will Hua, FanFan Huang
 
