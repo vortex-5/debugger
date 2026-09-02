@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnyKey", "AnyKey\AnyKey.csproj", "{C0B3F949-C81F-4C36-B1D2-4B92DECACDE5}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0B3F949-C81F-4C36-B1D2-4B92DECACDE5}.Debug|x86.ActiveCfg = Debug|x86
+		{C0B3F949-C81F-4C36-B1D2-4B92DECACDE5}.Debug|x86.Build.0 = Debug|x86
+		{C0B3F949-C81F-4C36-B1D2-4B92DECACDE5}.Release|x86.ActiveCfg = Release|x86
+		{C0B3F949-C81F-4C36-B1D2-4B92DECACDE5}.Release|x86.Build.0 = Release|x86
+		{D9724C38-F4C8-4965-B092-3C062EA97845}.Debug|x86.ActiveCfg = Debug|x86
+		{D9724C38-F4C8-4965-B092-3C062EA97845}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

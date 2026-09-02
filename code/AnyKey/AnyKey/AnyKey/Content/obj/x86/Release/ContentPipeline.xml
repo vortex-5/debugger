@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>table.png</Source>
+      <Name>table</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\table.xnb</Output>
+      <Time>2008-06-02T16:49:20.046875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>down.png</Source>
+      <Name>down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\down.xnb</Output>
+      <Time>2008-06-02T16:49:19.890625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>up.png</Source>
+      <Name>up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\up.xnb</Output>
+      <Time>2008-06-02T16:49:20.4375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ant.png</Source>
+      <Name>ant</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\ant.xnb</Output>
+      <Time>2008-06-02T16:49:20.390625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>cheese.png</Source>
+      <Name>cheese</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\cheese.xnb</Output>
+      <Time>2008-06-02T16:49:19.734375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>esc.png</Source>
+      <Name>esc</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\esc.xnb</Output>
+      <Time>2008-06-02T16:49:19.90625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>load.png</Source>
+      <Name>load</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\load.xnb</Output>
+      <Time>2008-06-02T16:49:20.375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>new.png</Source>
+      <Name>new</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\new.xnb</Output>
+      <Time>2008-06-02T16:49:20.09375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>info.png</Source>
+      <Name>info</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\info.xnb</Output>
+      <Time>2008-06-02T16:49:20.515625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>roadside.png</Source>
+      <Name>roadside</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\roadside.xnb</Output>
+      <Time>2008-06-02T16:49:20.5-04:00</Time>
+    </Item>
+    <Item>
+      <Source>squish.png</Source>
+      <Name>squish</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\squish.xnb</Output>
+      <Time>2008-06-02T16:49:20.359375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>purple.png</Source>
+      <Name>purple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\purple.xnb</Output>
+      <Time>2008-06-02T16:49:19.828125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>picnic.png</Source>
+      <Name>picnic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\picnic.xnb</Output>
+      <Time>2008-06-02T16:49:20.265625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>square.png</Source>
+      <Name>square</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\square.xnb</Output>
+      <Time>2008-06-02T16:49:19.765625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ladybug.png</Source>
+      <Name>ladybug</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\ladybug.xnb</Output>
+      <Time>2008-06-02T16:49:20.46875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>anthill.png</Source>
+      <Name>anthill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\anthill.xnb</Output>
+      <Time>2008-06-02T16:49:20.15625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>PicnicTable.png</Source>
+      <Name>PicnicTable</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\PicnicTable.xnb</Output>
+      <Time>2008-06-02T16:49:19.953125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SidewalkFeet.png</Source>
+      <Name>SidewalkFeet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\SidewalkFeet.xnb</Output>
+      <Time>2008-06-02T16:49:19.875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mamaroach.png</Source>
+      <Name>mamaroach</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\mamaroach.xnb</Output>
+      <Time>2008-06-02T16:49:20.0625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>roach.png</Source>
+      <Name>roach</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\roach.xnb</Output>
+      <Time>2008-06-02T16:49:19.703125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>grasshopper.png</Source>
+      <Name>grasshopper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\grasshopper.xnb</Output>
+      <Time>2008-06-02T16:49:20.171875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>moon.png</Source>
+      <Name>moon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\moon.xnb</Output>
+      <Time>2008-06-02T16:49:20.296875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>resume.png</Source>
+      <Name>resume</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\resume.xnb</Output>
+      <Time>2008-06-02T16:49:19.75-04:00</Time>
+    </Item>
+    <Item>
+      <Source>debugger.png</Source>
+      <Name>debugger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\debugger.xnb</Output>
+      <Time>2008-06-02T16:49:20.421875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>tojamtable.png</Source>
+      <Name>tojamtable</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\tojamtable.xnb</Output>
+      <Time>2008-06-02T16:49:19.984375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>credits.png</Source>
+      <Name>credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\credits.xnb</Output>
+      <Time>2008-06-02T16:49:20.1875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>keyboard.png</Source>
+      <Name>keyboard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\keyboard.xnb</Output>
+      <Time>2008-06-02T16:49:20.21875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>mamapurple.png</Source>
+      <Name>mamapurple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\mamapurple.xnb</Output>
+      <Time>2008-06-02T16:49:20.234375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>newspaper.png</Source>
+      <Name>newspaper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\newspaper.xnb</Output>
+      <Time>2008-06-02T16:49:19.8125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>flyingqueen.png</Source>
+      <Name>flyingqueen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\flyingqueen.xnb</Output>
+      <Time>2008-06-02T16:49:20.015625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>flyingwasp.png</Source>
+      <Name>flyingwasp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\flyingwasp.xnb</Output>
+      <Time>2008-06-02T16:49:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>hive.png</Source>
+      <Name>hive</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\hive.xnb</Output>
+      <Time>2008-06-02T16:49:20.109375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>queen.png</Source>
+      <Name>queen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\queen.xnb</Output>
+      <Time>2008-06-02T16:49:19.921875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>wasp.png</Source>
+      <Name>wasp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\wasp.xnb</Output>
+      <Time>2008-06-02T16:49:20.34375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>hivelight.png</Source>
+      <Name>hivelight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\hivelight.xnb</Output>
+      <Time>2008-06-02T19:46:11.0625-04:00</Time>
+    </Item>
+    <Item>
+      <Source>bigger.png</Source>
+      <Name>bigger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\bigger.xnb</Output>
+      <Time>2008-06-02T21:34:05.78125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>hammerofgod.png</Source>
+      <Name>hammerofgod</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\hammerofgod.xnb</Output>
+      <Time>2008-06-02T21:34:05.71875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>health.png</Source>
+      <Name>health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\health.xnb</Output>
+      <Time>2008-06-02T21:34:05.703125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>newcheese.png</Source>
+      <Name>newcheese</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\newcheese.xnb</Output>
+      <Time>2008-06-02T21:34:05.796875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>CourierNew.spritefont</Source>
+      <Name>CourierNew</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\CourierNew.xnb</Output>
+      <Time>2008-06-02T16:49:20.53125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Impact.spritefont</Source>
+      <Name>Impact</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\Impact.xnb</Output>
+      <Time>2008-06-02T16:49:20.453125-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <RootDirectory>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2007-11-28T12:08:00-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2007-11-28T12:08:42-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2007-11-28T12:08:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2007-11-28T12:07:44-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\2.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-05-07T15:24:28.8125-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

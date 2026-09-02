@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="AnyKey.Animation">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Animation.cs</FileName>
+      <HashCode>AAAAAAAAgAAAAgAAAAEAAIAAAgAASgCgAAAAAgAIAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnyKey.GenericBug">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GenericBug.cs</FileName>
+      <HashCode>AQQEAAAJEKBAAgAEASEMgIEAAgFEAQFEQABAgcHAAAw=</HashCode>
+    </TypeIdentifier>
+    <NestedTypes>
+      <Enum Name="AnyKey.GenericBug.BugState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GenericBug.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AnyKey.AttackMapper">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>AttackMapper.cs</FileName>
+      <HashCode>AAAAAAAAAAACAgCAAQIAAAAAAAAAAAAAAAAgAgAAAAA=</HashCode>
+    </TypeIdentifier>
+    <NestedTypes>
+      <Enum Name="AnyKey.AttackMapper.AttackMode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AttackMapper.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+  </Class>
+  <Class Name="AnyKey.Attack">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Attack.cs</FileName>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnyKey.Level">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Level.cs</FileName>
+      <HashCode>AQQAEAAkAAQAAgLAAAAKQAAFAAAgABCAAAAAAgAAIAQ=</HashCode>
+    </TypeIdentifier>
+    <NestedTypes>
+      <Enum Name="AnyKey.Level.Type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Level.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="AnyKey.Level.WinState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Level.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+  </Class>
+  <Class Name="AnyKey.Cheese">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Cheese.cs</FileName>
+      <HashCode>AQQQACAAAAAAAgAAAgAAAAAAAAAAAAAAIAACABAAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnyKey.Game1">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Game1.cs</FileName>
+      <HashCode>AAQAEEAAAAAAAwAAIAAAAIAAAACMACgBAAAgBBAQAAQ=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="AnyKey.Game1.GameState">
+        <TypeIdentifier>
+          <NewMemberFileName>Game1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+  </Class>
+  <Class Name="AnyKey.SpawnArea">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>SpawnArea.cs</FileName>
+      <HashCode>AAQBACAAACAAAgAQBAAAAAAAACEABAAAAAQAAAAAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnyKey.BugFactory">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>BugFactory.cs</FileName>
+      <HashCode>AAAAAAAEQAAAAAQAkBAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnyKey.Menu">
+    <Position X="9.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Menu.cs</FileName>
+      <HashCode>AAQQAAAAAAAAEgAAAAAAAAAgAAgAAAABABQgpAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <NestedTypes>
+      <Enum Name="AnyKey.Menu.MenuItems" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Menu.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="AnyKey.Menu.MenuStates" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Menu.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+  </Class>
+  <Interface Name="AnyKey.Bug">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Bug.cs</FileName>
+      <HashCode>AQQAAAAAAABAAgAAACAAAAAAAgAAAAEAAAAAgIEAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+</ClassDiagram>

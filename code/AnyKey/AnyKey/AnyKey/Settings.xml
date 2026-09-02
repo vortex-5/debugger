@@ -1,0 +1,285 @@
+<?xml version="1.0"?>
+<Settings>
+  <allLevels>
+    <levels>Tutorial|The First Infestation|TOJAM|Picnic Part I|Missile Command|Great Wall Of Cheese|Roach Outpost|Roach HQ|Casualties|Smile|Watch Your Step|Hive Alive|Picnic Part II|Dirty Streets|Bugnation</levels>
+  </allLevels>
+  <!--Gamemode 0 normal 1 time attack-->
+
+  <Tutorial>
+    <bg>roadside</bg>
+    <song>1</song>
+    <type>0</type>
+    <keyboardAlpha>192</keyboardAlpha>
+    <cheeseHealth>100</cheeseHealth>
+    <cheeseRectX>200</cheeseRectX>
+    <cheeseRectY>200</cheeseRectY>
+
+    <spawnBug>ant|ladybug</spawnBug>
+    <spawnStart>500|20000</spawnStart>
+    <spawnStop>20000|30000</spawnStop>
+    <spawnTotal>10|5</spawnTotal>
+    <spawnRectX>900|1000</spawnRectX>
+    <spawnRectY>250|0</spawnRectY>
+    <spawnRectWidth>0|10</spawnRectWidth>
+    <spawnRectHeight>0|500</spawnRectHeight>
+  </Tutorial>
+
+  <The_First_Infestation>
+    <bg>roadside</bg>
+    <song>1</song>
+    <type>0</type>
+    <cheeseHealth>1000|1000</cheeseHealth>
+    <cheeseRectX>410|180</cheeseRectX>
+    <cheeseRectY>340|215</cheeseRectY>
+
+    <spawnBug>ladybug|ant</spawnBug>
+    <spawnStart>500|500</spawnStart>
+    <spawnStop>1000|1000</spawnStop>
+    <spawnTotal>10|10|1</spawnTotal>
+    <spawnRectX>-10|950|500</spawnRectX>
+    <spawnRectY>0|400|250</spawnRectY>
+    <spawnRectWidth>10|0|0</spawnRectWidth>
+    <spawnRectHeight>500|0|0</spawnRectHeight>
+  </The_First_Infestation>
+
+  <TOJAM>
+    <bg>tojamtable</bg>
+    <song>1</song>
+    <type>0</type>
+    <cheeseHealth>250|250|250|250</cheeseHealth>
+    <cheeseRectX>550|614|550|614</cheeseRectX>
+    <cheeseRectY>230|230|294|294</cheeseRectY>
+
+    <spawnBug>ladybug|ladybug|grasshopper|grasshopper|areaofeffect</spawnBug>
+    <spawnStart>500|500|10000|10000|17000</spawnStart>
+    <spawnStop>20000|20000|20000|20000|17000</spawnStop>
+    <spawnTotal>25|25|15|15|1</spawnTotal>
+    <spawnRectX>-10|1000|-10|1000|500</spawnRectX>
+    <spawnRectY>0|0|0|0|250</spawnRectY>
+    <spawnRectWidth>10|10|10|10|0</spawnRectWidth>
+    <spawnRectHeight>500|500|500|500|0</spawnRectHeight>
+  </TOJAM>
+
+  <Picnic_Part_I>
+    <bg>picnic</bg>
+    <song>1</song>
+    <type>0</type>
+    <cheeseHealth>1000|1000</cheeseHealth>
+    <cheeseRectX>150|820</cheeseRectX>
+    <cheeseRectY>86|220</cheeseRectY>
+
+    <spawnBug>ladybug|ladybug|ant|ant|grasshopper|grasshopper|healthrestore</spawnBug>
+    <spawnStart>1000|1000|1000|1000|10000|10000|18000</spawnStart>
+    <spawnStop>26000|26000|26000|26000|26000|26000|26000</spawnStop>
+    <spawnTotal>20|20|60|60|10|10|2</spawnTotal>
+    <spawnRectX>1000|-10|100|300|-10|1000|500</spawnRectX>
+    <spawnRectY>0|0|350|450|0|0|250</spawnRectY>
+    <spawnRectWidth>10|10|0|0|10|10|0</spawnRectWidth>
+    <spawnRectHeight>500|500|0|0|500|500|0</spawnRectHeight>
+  </Picnic_Part_I>
+
+  <Missile_Command>
+    <bg>newspaper</bg>
+    <song>2</song>
+    <type>2</type>
+    <time>65000</time>
+    <cheeseHealth>1000|1000|1000|1000</cheeseHealth>
+    <cheeseRectX>228|388|548|708</cheeseRectX>
+    <cheeseRectY>405|405|405|405</cheeseRectY>
+
+    <spawnBug>beetle|beetle|mamabeetle|mamabeetle|mamabeetle|mamabeetle|hammerofgod</spawnBug>
+    <spawnStart>0|0|10000|12000|10000|12000|40000</spawnStart>
+    <spawnStop>5000|10000|10001|12001|40001|42001|40000</spawnStop>
+    <spawnTotal>15|20|1|1|2|2|1</spawnTotal>
+    <spawnRectX>0|0|-5|745|995|245|500</spawnRectX>
+    <spawnRectY>-50|-50|-50|-50|-50|-50|250</spawnRectY>
+    <spawnRectWidth>1000|1000|10|10|10|10|0</spawnRectWidth>
+    <spawnRectHeight>10|10|10|10|10|10|0</spawnRectHeight>
+  </Missile_Command>
+  
+	<Great_Wall_Of_Cheese>
+		<bg>roadside</bg>
+		<song>1</song>
+		<type>1</type>
+		<time>30000</time>
+		<cheeseHealth>300|300|300|300|300|300|300|300</cheeseHealth>
+		<cheeseRectX>480|480|480|480|480|480|480|480</cheeseRectX>
+		<cheeseRectY>0|64|128|192|256|320|384|448</cheeseRectY>
+
+		<spawnBug>ant|ant|grasshopper|grasshopper|roach|roach|areaofeffect</spawnBug>
+		<spawnStart>500|500|20000|20000|24000|24000|23700</spawnStart>
+		<spawnStop>22000|22000|50000|50000|35000|35000|23700</spawnStop>
+		<spawnTotal>100|100|200|200|1000|1000|1</spawnTotal>
+		<spawnRectX>-10|1000|-10|1000|-10|1000|500</spawnRectX>
+		<spawnRectY>0|0|0|0|0|0|250</spawnRectY>
+		<spawnRectWidth>10|10|10|10|10|10|0</spawnRectWidth>
+		<spawnRectHeight>500|500|500|500|500|500|0</spawnRectHeight>
+	</Great_Wall_Of_Cheese>
+
+	<Roach_Outpost>
+    <bg>moon</bg>
+    <song>1</song>
+    <type>0</type>
+    <cheeseHealth>300|300|300|300|300</cheeseHealth>
+    <cheeseRectX>168|268|520|608|400</cheeseRectX>
+    <cheeseRectY>150|300|100|300|200</cheeseRectY>
+
+    <spawnBug>roach|roach|healthrestore|healthrestore</spawnBug>
+    <spawnStart>1000|1000|10000|20000</spawnStart>
+    <spawnStop>30000|30000|10000|20000</spawnStop>
+    <spawnTotal>100|100|1|1</spawnTotal>
+    <spawnRectX>-60|1050|500|500</spawnRectX>
+    <spawnRectY>0|0|250|250</spawnRectY>
+    <spawnRectWidth>10|10|0|0</spawnRectWidth>
+    <spawnRectHeight>500|500|0|0</spawnRectHeight>
+  </Roach_Outpost>
+
+  <Roach_HQ>
+    <bg>moon</bg>
+    <song>2</song>
+    <type>2</type>
+    <time>120000</time>
+    <cheeseHealth>1000|1000|1000|1000</cheeseHealth>
+    <cheeseRectX>168|368|568|768</cheeseRectX>
+    <cheeseRectY>218|218|218|218</cheeseRectY>
+
+    <spawnBug>mamaroach|roach|roach|roach|roach</spawnBug>
+    <spawnStart>35000|0|0|10000|10000</spawnStart>
+    <spawnStop>35001|10000|10000|27000|27000</spawnStop>
+    <spawnTotal>1|5|5|15|15</spawnTotal>
+    <spawnRectX>-250|0|0|0|0</spawnRectX>
+    <spawnRectY>250|-300|800|-300|800</spawnRectY>
+    <spawnRectWidth>0|1000|1000|1000|1000</spawnRectWidth>
+    <spawnRectHeight>0|10|10|10|10</spawnRectHeight>
+  </Roach_HQ>
+
+  <Casualties>
+    <bg>PicnicTable</bg>
+    <song>1</song>
+    <type>0</type>
+    <cheeseHealth>20|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020|020</cheeseHealth>
+    <cheeseRectX>100|170|240|310|380|450|520|590|660|730|800|870|100|170|240|310|380|450|520|590|660|730|800|870|100|170|240|310|380|450|520|590|660|730|800|870|100|170|240|310|380|450|520|590|660|730|800|870</cheeseRectX>
+    <cheeseRectY>100|100|100|100|100|100|100|100|100|100|100|100|170|170|170|170|170|170|170|170|170|170|170|170|240|240|240|240|240|240|240|240|240|240|240|240|310|310|310|310|310|310|310|310|310|310|310|310</cheeseRectY>
+
+    <spawnBug>beetle|beetle|hammerofgod</spawnBug>
+    <spawnStart>500|500|500</spawnStart>
+    <spawnStop>30000|30000|30000</spawnStop>
+    <spawnTotal>35|35|2</spawnTotal>
+    <spawnRectX>-10|1000|400</spawnRectX>
+    <spawnRectY>0|0|200</spawnRectY>
+    <spawnRectWidth>10|10|200</spawnRectWidth>
+    <spawnRectHeight>500|500|100</spawnRectHeight>
+  </Casualties>
+
+  <Smile>
+    <bg>roadside</bg>
+    <song>1</song>
+    <type>0</type>
+    <cheeseHealth>500|500|500|500|500|500|500|500|500</cheeseHealth>
+    <cheeseRectX>361|361|567|567|307|377|464|551|625</cheeseRectX>
+    <cheeseRectY>92|162|92|162|272|320|352|320|272</cheeseRectY>
+
+    <spawnBug>roach|ladybug|roach|beetle|roach|areaofeffect</spawnBug>
+    <spawnStart>2000|6000|13000|17000|24000|17000</spawnStart>
+    <spawnStop>8000|15000|21000|27000|35000|17000</spawnStop>
+    <spawnTotal>80|20|50|20|65|1</spawnTotal>
+    <spawnRectX>-10|1100|-10|1100|-10|500</spawnRectX>
+    <spawnRectY>-10|-10|-10|-10|-10|250</spawnRectY>
+    <spawnRectWidth>0|0|0|0|0|0</spawnRectWidth>
+    <spawnRectHeight>520|520|520|520|520|0</spawnRectHeight>
+  </Smile>
+
+  <Watch_Your_Step>
+    <bg>SidewalkFeet</bg>
+    <song>1</song>
+    <type>0</type>
+    <cheeseHealth>1000|1000</cheeseHealth>
+    <cheeseRectX>152|702</cheeseRectX>
+    <cheeseRectY>97|345</cheeseRectY>
+
+    <spawnBug>ant|ant|grasshopper|grasshopper|beetle|beetle|healthrestore</spawnBug>
+    <spawnStart>1000|1000|5000|5000|3000|5000|20000</spawnStart>
+    <spawnStop>19000|19000|23000|23000|25000|25000|20000</spawnStop>
+    <spawnTotal>30|30|10|10|4|4|1</spawnTotal>
+    <spawnRectX>142|762|-10|-10|-10|565|500</spawnRectX>
+    <spawnRectY>430|84|510|-10|510|-10|250</spawnRectY>
+    <spawnRectWidth>0|0|1020|1020|500|500|0</spawnRectWidth>
+    <spawnRectHeight>0|0|0|0|0|0|0</spawnRectHeight>
+  </Watch_Your_Step>
+
+  <Hive_Alive>
+    <bg>PicnicTable</bg>
+    <song>2</song>
+    <type>2</type>
+    <time>60000</time>
+    <cheeseHealth>1000|1000|1000|1000</cheeseHealth>
+    <cheeseRectX>48|848|148|788</cheeseRectX>
+    <cheeseRectY>30|30|405|405</cheeseRectY>
+
+    <spawnBug>hive|hammerofgod</spawnBug>
+    <spawnStart>0|45000</spawnStart>
+    <spawnStop>1|45001</spawnStop>
+    <spawnTotal>1|1</spawnTotal>
+    <spawnRectX>500|250</spawnRectX>
+    <spawnRectY>600|125</spawnRectY>
+    <spawnRectWidth>0|500</spawnRectWidth>
+    <spawnRectHeight>0|250</spawnRectHeight>
+  </Hive_Alive>
+
+  <Picnic_Part_II>
+    <bg>picnic</bg>
+    <song>1</song>
+    <type>1</type>
+    <time>27000</time>
+    <cheeseHealth>1000|1000|1000</cheeseHealth>
+    <cheeseRectX>150|820|500</cheeseRectX>
+    <cheeseRectY>86|220|40</cheeseRectY>
+
+
+    <spawnBug>ladybug|wasp|ant|ant|grasshopper|grasshopper|beetle</spawnBug>
+    <spawnStart>1000|1000|1000|1000|1000|1000|15000</spawnStart>
+    <spawnStop>26000|26000|26000|26000|26000|26000|26000</spawnStop>
+    <spawnTotal>30|30|80|80|15|15|10</spawnTotal>
+    <spawnRectX>1000|-10|100|300|0|0|0</spawnRectX>
+    <spawnRectY>0|0|350|450|-10|500|500</spawnRectY>
+    <spawnRectWidth>10|10|0|0|1000|1000|1000</spawnRectWidth>
+    <spawnRectHeight>500|500|0|0|10|10|10</spawnRectHeight>
+  </Picnic_Part_II>
+
+  <Dirty_Streets>
+    <bg>SidewalkFeet</bg>
+    <song>1</song>
+    <type>0</type>
+    <cheeseHealth>1000|1000|1000|</cheeseHealth>
+    <cheeseRectX>350|550|450</cheeseRectX>
+    <cheeseRectY>170|170|280</cheeseRectY>
+
+    <spawnBug>beetle|beetle|roach|roach|wasp</spawnBug>
+    <spawnStart>1000|1000|10000|10000|5000</spawnStart>
+    <spawnStop>30000|30000|30000|30000|40000</spawnStop>
+    <spawnTotal>5|5|30|30|50</spawnTotal>
+    <spawnRectX>0|0|-30|1020|0</spawnRectX>
+    <spawnRectY>-10|500|0|0|500</spawnRectY>
+    <spawnRectWidth>1000|1000|10|10|1000</spawnRectWidth>
+    <spawnRectHeight>10|10|500|500|10</spawnRectHeight>
+  </Dirty_Streets>
+
+  <Bugnation>
+    <bg>moon</bg>
+    <song>2</song>
+    <type>2</type>
+    <time>200000</time>
+    <cheeseHealth>2000|2000|2000|2000</cheeseHealth>
+    <cheeseRectX>168|368|568|768</cheeseRectX>
+    <cheeseRectY>218|218|218|218</cheeseRectY>
+
+    <spawnBug>queenwasp|mamabeetle|ant|ant|ladybug|ladybug|beetle|beetle|grasshopper|grasshopper|mamaroach|mamaroach|healthrestore|hammerofgod|newcheese|mamaroach|areaofeffect</spawnBug>
+    <spawnStart>20000|20000|0|0|1000|1000|5000|5000|10000|10000|80000|90000|40000|50000|75000|140000|140000</spawnStart>
+    <spawnStop>20001|20001|60000|60000|60000|60000|60000|60000|60000|60000|80001|90001|40001|50001|75001|140001|140001</spawnStop>
+    <spawnTotal>1|1|100|100|30|30|3|3|40|40|1|1|1|1|1|1|1</spawnTotal>
+    <spawnRectX>500|500|0|0|0|0|0|0|0|0|-250|-250|250|250|250|-250|250</spawnRectX>
+    <spawnRectY>-100|600|-50|550|-50|550|-50|550|-50|550|250|250|125|125|125|250|125</spawnRectY>
+    <spawnRectWidth>0|0|1000|1000|1000|1000|1000|1000|1000|1000|0|0|500|500|500|0|500</spawnRectWidth>
+    <spawnRectHeight>0|0|10|10|10|10|10|10|10|10|0|0|250|250|250|0|250</spawnRectHeight>
+  </Bugnation>
+</Settings>

@@ -1,0 +1,2 @@
+C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Vortex-5\Desktop\tojam\trunk\code\AnyKey\AnyKey\AnyKey\Content\obj\x86\Release\ResolveAssemblyReference.cache
