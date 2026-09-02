@@ -8,7 +8,7 @@ Debugger was developed for the 2008 Toronto Game Jam and won second place. As th
 
 As soon as the bugs appear, players need to furiously tap the keyboard at the correct keys to squish the bugs. If they get too close the bugs will start eating the cheese. Levels come with different challenges such as normal (protect the cheese against the bugs to win the level), survival (protect the cheese for a set amount of time) and timed completion (squish all bugs before time runs out). Players can also earn power-ups such as cheese restore, massive damage, area of effect and bonus cheese. The game keeps track of the score.
 
-## Some screenshots of the game:
+## Screenshots:
 
 ![Game Menu](screenshots/01-debugger-main-game-screen.jpg)
 
